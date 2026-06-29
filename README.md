@@ -1,6 +1,26 @@
+# Zharnyx Academy — Curriculum and App
+
+This repository contains the Zharnyx Academy Next.js application and canonical curriculum documentation.
+
+## Canonical Year‑1 Curriculum
+
+The single source of truth for the first year of the Zharnyx Academy programme is the **Year‑1 (52‑week) curriculum**:
+
+- [Year‑1 (52‑Week) Curriculum](docs/curriculum/year-1-52-week-curriculum.md)
+
+This document:
+
+- Starts from IT and computing foundations and ramps into advanced, lab-first cybersecurity practice.
+- Defines Weeks 1–52 with one clear theme per week and 2–3 hands-on bullets.
+- Is intended for learners with only basic computer knowledge and is written in accessible language.
+
+Any older 3‑month curriculum views are historical or subset documents and should not be treated as canonical.
+
+## Development
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+### Getting Started
 
 First, run the development server:
 
@@ -20,7 +40,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+### Learn More
 
 To learn more about Next.js, take a look at the following resources:
 
@@ -29,7 +49,7 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
